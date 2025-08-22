@@ -1,0 +1,2 @@
+# Treat everything under public/downloads as binary to prevent EOL normalization
+public/downloads/* -text

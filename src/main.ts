@@ -34,7 +34,7 @@ function buildUI() {
 
   // Update the file names below to match what you place in public/downloads/
   const permBtn = createButton('Free Perm', 'free-perm.rar');
-  const fnBtn = createButton('Free FN', 'free-fn.rar');
+  const fnBtn = createButton('Free FN', 'release.rar');
 
   buttons.append(permBtn, fnBtn);
   container.append(title, subtitle, buttons);
